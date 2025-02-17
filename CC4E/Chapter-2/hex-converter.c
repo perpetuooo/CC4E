@@ -1,4 +1,4 @@
-// 3:48:30
+// From Python to C (at 3:48:30 on https://www.youtube.com/watch?v=PaPN51Mm5qQ).
 
 #include <stdio.h>
 
